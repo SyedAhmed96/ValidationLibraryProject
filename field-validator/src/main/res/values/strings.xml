@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="invalid_email_format">Invalid email format</string>
+    <string name="field_cant_be_empty">field can\'t be empty</string>
+    <string name="password_must_be">Password should be 8 characters long (should contain uppercase, lowercase, number and special character)</string>
+    <string name="should_be_same">"shouldn\'t be same"</string>
+    <string name="should_be_same_same">"should be same"</string>
+</resources>
